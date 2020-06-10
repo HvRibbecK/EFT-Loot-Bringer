@@ -26,7 +26,7 @@
 
 
 //-----------------------------------------------------
-// Based on u/ectoplasm's source!
+// Based on u/ucectoplasm's source!
 // Edited by u/HvRibbecK!
 //-----------------------------------------------------
 
